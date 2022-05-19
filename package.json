@@ -1,0 +1,29 @@
+{
+  "name": "ardy-canvas",
+  "version": "1.0.0",
+  "description": "By Ardy",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdyBotzz/ardy-canvas"
+  },
+  "keywords": [
+    "canvas-null",
+    "knights-canvas",
+    "ardy-canvas",
+    "canvas",
+    "baileys"
+  ],
+  "author": "LINZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArdyBotzz/ardy-canvas/issues"
+  },
+  "homepage": "https://github.com/ArdyBotzz/ardy-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
